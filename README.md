@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-- 👋 Hi, I’m @ajayi-nifemi
-- 👀 i'm a ui/ux designer
-- 📫 How to reach me oluwanifemiajayi61@gmail.com
-- 😄 Pronouns: she/her
-=======
 -  Hi, I’m @ajayi-nifemi
 -I'm a UI/UX Designer
 - How to reach me oluwanifemiajayi61@gmail.com
