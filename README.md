@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @ajayi-nifemi
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript and python
-- 💞️ I’m looking to collaborate on anything possible
+- 👀 i'm a ui/ux designer
 - 📫 How to reach me oluwanifemiajayi61@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i think tech is not for me.
 
 <!---
 ajayi-nifemi/ajayi-nifemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
